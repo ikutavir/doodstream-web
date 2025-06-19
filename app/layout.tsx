@@ -22,7 +22,6 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en" suppressHydrationWarning>
-            <script type="text/javascript" src="https://pl26937306.profitableratecpm.com/81/02/05/810205f7c9d4361ab3202aff108acf6c.js"></script>
             <body className={font.className}>
                 <ThemeProvider
                     attribute="class"
