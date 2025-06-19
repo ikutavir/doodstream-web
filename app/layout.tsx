@@ -1,5 +1,5 @@
 import "./globals.css";
-import AdScript from "./components/AdScript";
+import { AdScript } from "./components/AdScript";
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import { SITENAME } from "@/lib/constants";
